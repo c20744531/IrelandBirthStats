@@ -1,4 +1,4 @@
-# 👶 Irish Baby Names, 1964 to 2025,
+# 👶 Irish Baby Names, 1964 to 2025
 
 **Sixty-two years of Irish baby names, analysed with SQL and Python using open data from the Central Statistics Office (CSO).**
 
